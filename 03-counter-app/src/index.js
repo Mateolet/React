@@ -22,4 +22,4 @@ const divRoot = document.querySelector("#root");
 
 // Que queres meter y en donde ()
 // SEGUNDO PARAMETRO SON LAS PROPS
-ReactDOM.render(<CounterApp value={123}/>,divRoot)
+ReactDOM.render(<CounterApp value={822}/>,divRoot)
